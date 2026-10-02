@@ -207,9 +207,9 @@ The customer segments can support business decisions such as:
 ## 👨‍💻 Author
 
 <p align="center">
-  <b>Tushar Kumar</b><br/>
-  B.Tech Computer Science Engineering<br/>
-  Data Science | Machine Learning | Software Development
+  <b>LAVISH CHAUHAN/b><br/>
+   BTECH AI DATA SCIENCE <br/>
+  
 </p>
 
 <p align="center">
